@@ -3,6 +3,7 @@ I'm Mohammed Shahad
 
 💻 Developer  
 🌱 Learning Python , Web Dev  & Data Analytics
+
 🚀 Building cool projects  
 
 ## Skills
